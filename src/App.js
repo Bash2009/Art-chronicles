@@ -4,11 +4,13 @@ import FirstPage from "./pages/firstPage";
 import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
 import ModernArts from "./pages/modernArts";
 import RenaissanceArt from "./pages/renaissanceArt";
+import ErrorPage from "./pages/components/errorElement";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <FirstPage />,
+    errorElement: <ErrorPage />
   },
 
   {
