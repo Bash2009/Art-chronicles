@@ -19,7 +19,7 @@ const NavBar = (props) => {
 
         <div className="collapse navbar-collapse" id={props.id}>
           <div className="navbar-nav ms-auto">
-            <Link to="/" className="nav-link">
+            <Link to="/Art-chronicles/" className="nav-link">
               About
             </Link>
 
