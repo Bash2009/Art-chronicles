@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Art-chronicles/static/css/main.3bb6d51d.css",
-    "main.js": "/Art-chronicles/static/js/main.5ba17c1c.js",
+    "main.js": "/Art-chronicles/static/js/main.ed0d8bfc.js",
     "static/js/156.75be169d.chunk.js": "/Art-chronicles/static/js/156.75be169d.chunk.js",
     "static/media/image-5.jpg": "/Art-chronicles/static/media/image-5.c0e44c3fac7af1f967ef.jpg",
     "static/media/image-21.jpg": "/Art-chronicles/static/media/image-21.f7140638084ee427a5b6.jpg",
@@ -27,11 +27,11 @@
     "static/media/image-11.jpg": "/Art-chronicles/static/media/image-11.05db73c33a61620edfe9.jpg",
     "index.html": "/Art-chronicles/index.html",
     "main.3bb6d51d.css.map": "/Art-chronicles/static/css/main.3bb6d51d.css.map",
-    "main.5ba17c1c.js.map": "/Art-chronicles/static/js/main.5ba17c1c.js.map",
+    "main.ed0d8bfc.js.map": "/Art-chronicles/static/js/main.ed0d8bfc.js.map",
     "156.75be169d.chunk.js.map": "/Art-chronicles/static/js/156.75be169d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bb6d51d.css",
-    "static/js/main.5ba17c1c.js"
+    "static/js/main.ed0d8bfc.js"
   ]
 }
