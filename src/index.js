@@ -12,7 +12,7 @@ import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
 
 const router = createBrowserRouter([
   {
-    path: "/Art-chronicles/",
+    path: "/Art-chronicles",
     element: <App />,
     errorElement: <ErrorPage />,
   },

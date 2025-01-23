@@ -5,7 +5,7 @@ const NavBar = (props) => {
   return (
     <React.Fragment>
       <nav className="navbar navbar-expand-md px-3">
-        <Link to="/Art-chronicles/" className="navbar-brand fw-bold">
+        <Link to="/Art-chronicles" className="navbar-brand fw-bold">
           Art Chronicles
         </Link>
         <button
@@ -19,7 +19,7 @@ const NavBar = (props) => {
 
         <div className="collapse navbar-collapse" id={props.id}>
           <div className="navbar-nav ms-auto">
-            <Link to="/Art-chronicles/" className="nav-link">
+            <Link to="/Art-chronicles" className="nav-link">
               About
             </Link>
 
