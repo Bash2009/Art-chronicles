@@ -2,14 +2,36 @@ import React from "react";
 import ReactDOM from "react-dom/client";
 import "./index.css";
 import App from "./App";
+import ModernArts from "./pages/modernArts";
+import RenaissanceArt from "./pages/renaissanceArt";
+import ErrorPage from "./pages/components/errorElement";
 import reportWebVitals from "./reportWebVitals";
 import "bootstrap/dist/css/bootstrap.css";
 import "bootstrap/dist/js/bootstrap.js";
+import { createBrowserRouter, RouterProvider, Route } from "react-router-dom";
+
+const router = createBrowserRouter([
+  {
+    path: "/",
+    element: <App />,
+    errorElement: <ErrorPage />,
+  },
+
+  {
+    path: "/modernArt",
+    element: <ModernArts />,
+  },
+
+  {
+    path: "/renaissanceArt",
+    element: <RenaissanceArt />,
+  },
+]);
 
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <React.StrictMode>
-    <App />
+    <RouterProvider router={router} />
   </React.StrictMode>
 );
 
