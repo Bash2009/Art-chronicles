@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/Art-chronicles/static/css/main.3bb6d51d.css",
+    "main.js": "/Art-chronicles/static/js/main.92c53839.js",
+    "static/js/156.75be169d.chunk.js": "/Art-chronicles/static/js/156.75be169d.chunk.js",
+    "static/media/image-5.jpg": "/Art-chronicles/static/media/image-5.c0e44c3fac7af1f967ef.jpg",
+    "static/media/image-21.jpg": "/Art-chronicles/static/media/image-21.f7140638084ee427a5b6.jpg",
+    "static/media/image-6.jpg": "/Art-chronicles/static/media/image-6.33989c3a95736c25e9fc.jpg",
+    "static/media/image-23.jpg": "/Art-chronicles/static/media/image-23.cdd04f53e49428d46bc3.jpg",
+    "static/media/image-12.jpg": "/Art-chronicles/static/media/image-12.3ba4f0b5f5ed3f09810d.jpg",
+    "static/media/image-24.jpg": "/Art-chronicles/static/media/image-24.d5d6e37cdc4584aeb540.jpg",
+    "static/media/image-7.jpg": "/Art-chronicles/static/media/image-7.c18ddf3c06988e4ebb8f.jpg",
+    "static/media/image-1.jpg": "/Art-chronicles/static/media/image-1.bf2ebe2c5db7ff766172.jpg",
+    "static/media/image-20.jpg": "/Art-chronicles/static/media/image-20.d4db4fc600e8dbf0b207.jpg",
+    "static/media/image-19.jpg": "/Art-chronicles/static/media/image-19.7e917cb7032bd9acf21a.jpg",
+    "static/media/image-4.jpg": "/Art-chronicles/static/media/image-4.55529614d201a52b9cb3.jpg",
+    "static/media/image-13.jpg": "/Art-chronicles/static/media/image-13.3f7b58c237dedb45b50f.jpg",
+    "static/media/image-17.jpg": "/Art-chronicles/static/media/image-17.1065604b267a5b1208e0.jpg",
+    "static/media/image-18.jpg": "/Art-chronicles/static/media/image-18.ddcba3c3d2599687f0d0.jpg",
+    "static/media/image-25.jpg": "/Art-chronicles/static/media/image-25.d67001cb631dc88f8178.jpg",
+    "static/media/image-22.jpg": "/Art-chronicles/static/media/image-22.c57a52db7604c7de96f7.jpg",
+    "static/media/image-10.jpg": "/Art-chronicles/static/media/image-10.7baf8303011b15b39e50.jpg",
+    "static/media/image-14.jpg": "/Art-chronicles/static/media/image-14.d9bfe0354ee15f450db5.jpg",
+    "static/media/image-15.jpg": "/Art-chronicles/static/media/image-15.52f8f7b193adf5751dfb.jpg",
+    "static/media/image-16.jpg": "/Art-chronicles/static/media/image-16.04ae6f2592a5fdb04462.jpg",
+    "static/media/image-9.jpg": "/Art-chronicles/static/media/image-9.0f688f1cf8e5ba95634d.jpg",
+    "static/media/image-11.jpg": "/Art-chronicles/static/media/image-11.05db73c33a61620edfe9.jpg",
+    "index.html": "/Art-chronicles/index.html",
+    "main.3bb6d51d.css.map": "/Art-chronicles/static/css/main.3bb6d51d.css.map",
+    "main.92c53839.js.map": "/Art-chronicles/static/js/main.92c53839.js.map",
+    "156.75be169d.chunk.js.map": "/Art-chronicles/static/js/156.75be169d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bb6d51d.css",
+    "static/js/main.92c53839.js"
+  ]
+}
