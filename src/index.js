@@ -18,12 +18,12 @@ const router = createBrowserRouter([
   },
 
   {
-    path: "/Art-chronicles/modernArt",
+    path: "/modernArt",
     element: <ModernArts />,
   },
 
   {
-    path: "/Art-chronicles/renaissanceArt",
+    path: "/renaissanceArt",
     element: <RenaissanceArt />,
   },
 ]);

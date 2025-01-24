@@ -34,12 +34,12 @@ const NavBar = (props) => {
 
               <ul className="dropdown-menu" id="nav-dropdown">
                 <li>
-                  <Link to="/Art-chronicles/modernArt" className="dropdown-item">
+                  <Link to="/modernArt" className="dropdown-item">
                     Modern Arts
                   </Link>
                 </li>
                 <li>
-                  <Link to="/Art-chronicles/renaissanceArt" className="dropdown-item">
+                  <Link to="/renaissanceArt" className="dropdown-item">
                     Renaissance Arts
                   </Link>
                 </li>
