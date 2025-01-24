@@ -1,7 +1,7 @@
 import React from "react";
 import Category from "./category";
-import cat1 from "../../media/image-2.jpg";
-import cat2 from "../../media/image-3.jpg";
+import cat1 from "../../media/image-2.png";
+import cat2 from "../../media/image-3.png";
 
 const Categories = () => {
   return (
